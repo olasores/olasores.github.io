@@ -70,6 +70,7 @@ h5,
 h6 {
     color: var(--color-heading);
     font-weight: 700;
+    font-size: medium;
 }
 
 a {
